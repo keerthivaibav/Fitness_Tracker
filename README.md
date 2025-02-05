@@ -1,0 +1,5 @@
+## README for Fitness Tracker  
+
+Welcome to the **Fitness Tracker** project! This application is designed to help users monitor and improve their fitness journey by tracking workouts, managing daily activities, and setting fitness goals. With an intuitive interface, users can log exercises, record progress, and view detailed analytics of their health metrics. The app supports various workout types, including cardio, strength training, and flexibility routines. Users can visualize trends through interactive charts and stay motivated by setting personalized goals. Built with a user-centric approach, Fitness Tracker aims to make staying fit both engaging and manageable. Whether you're a beginner or a fitness enthusiast, this tool is here to help you achieve your health objectives efficiently. Happy tracking!  
+Fitness-Tracker-Group-Project
+This repository contains our team's final project after the Coding Dojo web development bootcamp. We'll be using the MERN Stack (MongoDB, Express.js, React.js, Node.js) for development
